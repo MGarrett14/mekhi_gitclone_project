@@ -1,0 +1,20 @@
+1. Was it easy to find your classmates assignment?
+  - It was easy to find Jahmere's assignment, all I had to do was to ask what was his github name
+    copied his code and paste it with gitclone
+
+2. Was their documentation clear and concise on what their program was designed to do?
+    - My partner's documentation was clear and concise, it went straight to the point on what the code does
+ - My partner's documentation instructed me on how to download his program 
+
+ 3. Was their documnetion clear and concise on how to install their program?
+   -Their documentation was pretty clear, it automatically told me what their program does 
+   - Their documentation explained that they can input any integer when they print a piece of code 
+
+ 4. When you installed and ran your classmates program, did it work as described?
+   - When I installed and ran my classmates program, I git clone the code and it was pefect, no issues at all.
+
+
+5. Based on your experience using your classmate's program, as well as what you've learned about programming and documentation, are there any reccomendations that you would provide to your classmate?
+   - Recomendations I reccomend for my classmate is to be more descriptive on what their code does
+   - I like how it was straightfoward but their description wasn't that well and it could've done better
+   
